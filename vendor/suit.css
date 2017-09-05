@@ -362,7 +362,7 @@ nav a:focus {
 /*--howitworks end here--*/
 /*--banner start here--*/
 .banner {
-    background: url(../images/bike-share-system-2.jpg)no-repeat;
+    background: url("http://oulthdsdy.bkt.clouddn.com/static.png")no-repeat;
     background-size: cover;
     min-height:550px;
 }
