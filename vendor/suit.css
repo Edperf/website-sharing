@@ -23,11 +23,11 @@ a:hover {
 }
 @font-face {
     font-family: 'Viga-Regular';
-    src:url(../fonts/Viga-Regular.ttf) format('truetype');
+    src:url("http://oulthdsdy.bkt.clouddn.com/fonts/Viga-Regular.ttf") format('truetype');
 }
 @font-face {
 	font-family: 'PT_Sans-Web-Regular';
-    src:url(../fonts/PT_Sans-Web-Regular.ttf) format('truetype');
+    src:url("http://oulthdsdy.bkt.clouddn.com/fonts/PT_Sans-Web-Regular.ttf") format('truetype');
 }
 /*--header start here--*/
 .header {
