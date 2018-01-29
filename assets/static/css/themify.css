@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'themify';
-	src:url('http://oulthdsdy.bkt.clouddn.com/themify.eot?-fvbane');
-	src:url('http://oulthdsdy.bkt.clouddn.com/themify.eot?#iefix-fvbane') format('embedded-opentype'),
-		url('http://oulthdsdy.bkt.clouddn.com/themify.woff?-fvbane') format('woff'),
-		url('http://oulthdsdy.bkt.clouddn.com/themify.ttf?-fvbane') format('truetype'),
+	src:url('https://github.com/Edperf/website-sharing/blob/master/assets/static/themify.eot?-fvbane');
+	src:url('https://github.com/Edperf/website-sharing/blob/master/assets/static/themify.eot?#iefix-fvbane') format('embedded-opentype'),
+		url('https://github.com/Edperf/website-sharing/blob/master/assets/static/themify.woff?-fvbane') format('woff'),
+		url('https://github.com/Edperf/website-sharing/blob/master/assets/static/themify.ttf?-fvbane') format('truetype'),
 		url('http://oulthdsdy.bkt.clouddn.com/themify.svg?-fvbane#themify') format('svg');
 	font-weight: normal;
 	font-style: normal;
